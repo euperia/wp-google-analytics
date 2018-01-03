@@ -6,7 +6,7 @@
  * @package  Euperia_Google_Analytics
  * @author   Andrew McCombe <euperia@gmail.com>
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
- * @link     https://www.euperia.com/wordpress-plugins/google-analytics
+ * @link     https://www.euperia.com/wordpress-plugins/google-analytics/1855
  * 
  * @see https://codex.wordpress.org/Transients_API
  */
@@ -18,7 +18,7 @@
  * @package  Euperia_Google_Analytics
  * @author   Andrew McCombe <euperia@gmail.com>
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
- * @link     https://www.euperia.com/wordpress-plugins/google-analytics
+ * @link     https://www.euperia.com/wordpress-plugins/google-analytics/1855
  */
 class Messages
 {

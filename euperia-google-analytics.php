@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Euperia Google Analytics Tag
-Plugin URI: https://www.euperia.com/wordpress-plugins/google-analytics
+Plugin URI: https://www.euperia.com/wordpress-plugins/google-analytics/1855
 Description: A basic Google Analytics plugin. Simply adds the Google Analytics tracking code to all Wordpress pages.
 Version: 0.0.1
 Author: Andrew McCombe <euperia@gmail.com>
